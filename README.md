@@ -222,11 +222,7 @@ This project was built for a technical assignment and is intended for educationa
 
 ---
 
-👤 Author
-AFROSE FATHIMA J
-
-Built as part of an AI Engineer technical assignment.
-
 ## 👤 Author
+AFROSE FATHIMA J
 
 Built as part of an AI Engineer technical assignment.
