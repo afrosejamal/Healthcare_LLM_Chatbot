@@ -56,8 +56,7 @@ flowchart TD
     style FAISS fill:#f0e8ff,stroke:#8e44ad
 ```
 
-> This diagram renders automatically on GitHub. A static export and a slide-deck version are also available at `docs/architecture_diagram.svg` and `docs/architecture_slides.pptx` if you need them outside of GitHub.
-
+> 
 ---
 
 ## 📸 Screenshots
