@@ -1,0 +1,502 @@
+[
+  {
+    "id": "kb001",
+    "topic": "Common Cold",
+    "content": "The common cold is a viral infection of the nose and throat. Typical symptoms include runny or stuffy nose, sneezing, sore throat, mild cough, and low-grade fever. Most colds resolve within 7-10 days with rest, fluids, and over-the-counter symptom relief. See a doctor if symptoms last beyond 10 days or worsen significantly."
+  },
+  {
+    "id": "kb002",
+    "topic": "Dehydration",
+    "content": "Dehydration occurs when the body loses more fluids than it takes in. Common signs include dry mouth, fatigue, dizziness, dark urine, and headache. Mild dehydration can usually be managed by drinking water or oral rehydration solutions. Severe dehydration (confusion, rapid heartbeat, minimal urination) requires urgent medical care."
+  },
+  {
+    "id": "kb003",
+    "topic": "Balanced Diet Basics",
+    "content": "A balanced diet typically includes a variety of vegetables, fruits, whole grains, lean proteins, and healthy fats, while limiting added sugar, excess sodium, and processed foods. Portion control and regular meal timing also support healthy digestion and stable energy levels."
+  },
+  {
+    "id": "kb004",
+    "topic": "Preventive Healthcare",
+    "content": "Preventive healthcare includes routine checkups, vaccinations, regular screenings (blood pressure, cholesterol, cancer screenings as age-appropriate), maintaining a healthy weight, not smoking, limiting alcohol, and regular physical activity. Prevention reduces the risk of developing chronic diseases later in life."
+  },
+  {
+    "id": "kb005",
+    "topic": "First Aid for Minor Cuts",
+    "content": "For minor cuts: wash your hands, apply gentle pressure with a clean cloth to stop bleeding, rinse the wound with clean water, apply an antiseptic if available, and cover with a sterile bandage. Seek medical attention if bleeding doesn't stop after 10 minutes, the cut is deep, or shows signs of infection (redness, swelling, pus)."
+  },
+  {
+    "id": "kb006",
+    "topic": "First Aid for Burns",
+    "content": "For minor burns: cool the area under running cool (not ice-cold) water for about 10-20 minutes, do not apply ice, butter, or ointments, cover loosely with a clean non-stick bandage. Seek immediate medical care for burns larger than 3 inches, on the face/hands/joints, or that look deep/charred."
+  },
+  {
+    "id": "kb007",
+    "topic": "Healthy Sleep Habits",
+    "content": "Adults generally benefit from 7-9 hours of sleep per night. Good sleep hygiene includes a consistent sleep schedule, limiting screen time before bed, avoiding caffeine late in the day, and keeping the bedroom cool, dark, and quiet."
+  },
+  {
+    "id": "kb008",
+    "topic": "Exercise Guidelines",
+    "content": "General guidelines suggest at least 150 minutes of moderate-intensity aerobic activity per week (like brisk walking) plus muscle-strengthening activities twice a week. Starting gradually and consulting a doctor before major changes is recommended, especially for those with existing health conditions."
+  },
+  {
+    "id": "kb009",
+    "topic": "Managing Stress",
+    "content": "Common stress-management techniques include regular physical activity, deep breathing or meditation, adequate sleep, social support, and time management. Persistent stress affecting daily life or mental health may benefit from speaking with a mental health professional."
+  },
+  {
+    "id": "kb010",
+    "topic": "Food Poisoning",
+    "content": "Food poisoning symptoms often include nausea, vomiting, diarrhea, and stomach cramps, usually appearing within hours to days of eating contaminated food. Most cases resolve within a few days with rest and hydration. Seek medical care for high fever, bloody stools, signs of severe dehydration, or symptoms lasting more than 3 days."
+  },
+  {
+    "id": "kb011",
+    "topic": "Seasonal Allergies",
+    "content": "Seasonal allergies (hay fever) are triggered by pollen and can cause sneezing, itchy/watery eyes, runny nose, and congestion. Management includes avoiding known triggers, keeping windows closed during high-pollen periods, and antihistamines. Persistent or severe symptoms warrant seeing a doctor or allergist."
+  },
+  {
+    "id": "kb012",
+    "topic": "Hypertension Basics",
+    "content": "High blood pressure (hypertension) often has no obvious symptoms, which is why regular monitoring is important. Lifestyle factors that help manage blood pressure include reducing sodium intake, regular exercise, maintaining healthy weight, limiting alcohol, and stress management. Diagnosis and treatment plans should always come from a healthcare provider."
+  },
+  {
+    "id": "kb013",
+    "topic": "Diabetes Basics",
+    "content": "Diabetes is a condition affecting how the body processes blood sugar. Common general symptoms associated with high blood sugar include increased thirst, frequent urination, fatigue, and blurred vision. Diagnosis requires blood tests performed by a healthcare provider; management typically involves diet, physical activity, monitoring, and sometimes medication."
+  },
+  {
+    "id": "kb014",
+    "topic": "Choking First Aid",
+    "content": "For a choking adult who cannot cough, speak, or breathe: call emergency services immediately, and if trained, perform abdominal thrusts (Heimlich maneuver). This is a medical emergency requiring immediate professional help."
+  },
+  {
+    "id": "kb015",
+    "topic": "Mental Health Awareness",
+    "content": "Mental health is as important as physical health. Persistent feelings of sadness, anxiety, hopelessness, or loss of interest in daily activities for more than two weeks may indicate a mental health condition worth discussing with a professional. Support is available and seeking help is a sign of strength, not weakness."
+  },
+  {
+    "id": "kb016",
+    "topic": "Fever Basics",
+    "content": "Fever is a temporary increase in body temperature, often caused by infections. Common symptoms may include chills, sweating, body aches, fatigue, and weakness. Staying hydrated, resting, and monitoring temperature can help manage mild fever. Seek medical advice for very high fever, fever lasting several days, or fever with severe symptoms such as confusion, difficulty breathing, or persistent vomiting."
+  },
+  {
+    "id": "kb017",
+    "topic": "Headache Causes",
+    "content": "Headaches can occur due to stress, dehydration, lack of sleep, eye strain, infections, or other medical conditions. Common types include tension headaches and migraines. Rest, hydration, relaxation techniques, and avoiding known triggers may help. Frequent, severe, sudden, or unusual headaches should be evaluated by a healthcare professional."
+  },
+  {
+    "id": "kb018",
+    "topic": "Cough and Sore Throat",
+    "content": "Cough and sore throat are common symptoms of respiratory infections such as colds and flu. Drinking warm fluids, staying hydrated, resting, and avoiding irritants like smoke may provide relief. Seek medical care if there is difficulty breathing, chest pain, coughing blood, or symptoms that do not improve."
+  },
+  {
+    "id": "kb019",
+    "topic": "Flu (Influenza)",
+    "content": "Influenza is a viral respiratory infection that can cause fever, cough, sore throat, body aches, fatigue, and chills. Prevention includes annual flu vaccination, frequent handwashing, and avoiding close contact with infected individuals. Rest, fluids, and medical advice when needed can support recovery."
+  },
+  {
+    "id": "kb020",
+    "topic": "Asthma Basics",
+    "content": "Asthma is a condition where the airways become inflamed and narrow, causing symptoms such as wheezing, coughing, chest tightness, and difficulty breathing. Triggers may include allergens, exercise, smoke, and pollution. Asthma management usually involves avoiding triggers and following a healthcare provider's treatment plan."
+  },
+  {
+    "id": "kb021",
+    "topic": "Healthy Weight Management",
+    "content": "Maintaining a healthy weight involves balanced nutrition, regular physical activity, adequate sleep, and sustainable lifestyle habits. Extreme diets or rapid weight loss methods may not be healthy. A gradual approach with professional guidance can support long-term health."
+  },
+  {
+    "id": "kb022",
+    "topic": "Protein Sources",
+    "content": "Protein is an essential nutrient needed for muscle repair, immune function, and overall health. Healthy protein sources include eggs, fish, poultry, dairy products, beans, lentils, nuts, seeds, and soy products. A balanced diet should include appropriate protein based on individual needs."
+  },
+  {
+    "id": "kb023",
+    "topic": "Vitamin and Mineral Importance",
+    "content": "Vitamins and minerals support important body functions including immunity, bone health, energy production, and metabolism. A varied diet containing fruits, vegetables, whole grains, dairy, and protein sources usually provides many essential nutrients. Supplements should be taken only when needed or recommended by a healthcare professional."
+  },
+  {
+    "id": "kb024",
+    "topic": "Hand Hygiene",
+    "content": "Regular handwashing helps prevent the spread of infections. Wash hands with soap and water for at least 20 seconds, especially before eating, after using the restroom, and after coughing or sneezing. Hand sanitizer can be used when soap and water are unavailable."
+  },
+  {
+    "id": "kb025",
+    "topic": "Vaccination Basics",
+    "content": "Vaccines help protect against certain infectious diseases by training the immune system to recognize and fight specific pathogens. Staying up to date with recommended vaccinations is an important part of preventive healthcare. Vaccination schedules may vary depending on age, health conditions, and location."
+  },
+  {
+    "id": "kb026",
+    "topic": "Heart Health",
+    "content": "Heart health can be supported through regular physical activity, a balanced diet, maintaining healthy blood pressure and cholesterol levels, avoiding smoking, managing stress, and getting regular health checkups. Warning signs such as chest pain, severe shortness of breath, or sudden weakness require immediate medical attention."
+  },
+  {
+    "id": "kb027",
+    "topic": "Eye Health",
+    "content": "Good eye health includes regular eye examinations, protecting eyes from harmful sunlight, taking breaks from screens, maintaining proper lighting, and eating nutrient-rich foods. Changes in vision, eye pain, sudden vision loss, or persistent irritation should be checked by an eye care professional."
+  },
+  {
+    "id": "kb028",
+    "topic": "Dental Hygiene",
+    "content": "Dental health can be maintained by brushing twice daily with fluoride toothpaste, flossing regularly, limiting sugary foods and drinks, and having routine dental checkups. Tooth pain, bleeding gums, swelling, or sensitivity should be evaluated by a dentist."
+  },
+  {
+    "id": "kb029",
+    "topic": "Back Pain Management",
+    "content": "Back pain may result from muscle strain, poor posture, injuries, or other conditions. Maintaining good posture, gentle stretching, regular movement, and proper lifting techniques may help prevent discomfort. Severe pain, numbness, weakness, or loss of bladder or bowel control requires urgent medical attention."
+  },
+  {
+    "id": "kb030",
+    "topic": "Stroke Warning Signs",
+    "content": "Stroke is a medical emergency caused by interrupted blood flow to the brain. Warning signs include sudden facial drooping, weakness or numbness on one side of the body, speech difficulties, confusion, vision problems, or severe sudden headache. Immediate emergency medical care is required."
+  },
+  {
+    "id": "kb031",
+    "topic": "Heart Attack Warning Signs",
+    "content": "Possible heart attack symptoms include chest pressure or pain, pain spreading to the arm, jaw, neck, or back, shortness of breath, sweating, nausea, and dizziness. Symptoms can vary between individuals. Emergency medical help should be sought immediately if a heart attack is suspected."
+  },
+  {
+    "id": "kb032",
+    "topic": "Minor Sprain First Aid",
+    "content": "For minor sprains, initial care may include rest, applying ice wrapped in a cloth, compression with an elastic bandage, and elevating the injured area. Avoid putting excessive pressure on the injury. Severe swelling, deformity, inability to move, or intense pain requires medical evaluation."
+  },
+  {
+    "id": "kb033",
+    "topic": "Nosebleed First Aid",
+    "content": "For a nosebleed, sit upright and lean slightly forward. Pinch the soft part of the nose continuously for about 10-15 minutes while breathing through the mouth. Seek medical care if bleeding is heavy, lasts longer than 20 minutes, or occurs frequently."
+  },
+  {
+    "id": "kb034",
+    "topic": "Healthy Hydration",
+    "content": "Adequate hydration supports digestion, temperature regulation, circulation, and overall body function. Water needs vary depending on activity level, climate, age, and health conditions. Drinking fluids regularly and monitoring signs like dark urine can help maintain hydration."
+  },
+  {
+    "id": "kb035",
+    "topic": "Food Safety Practices",
+    "content": "Food safety practices include washing hands before handling food, cooking food thoroughly, storing food at safe temperatures, separating raw and cooked foods, and checking expiration dates. These practices reduce the risk of foodborne illnesses."
+  },
+  {
+    "id": "kb036",
+    "topic": "Common Cold Prevention",
+    "content": "Preventing the common cold includes frequent handwashing, avoiding touching the face with unwashed hands, maintaining good sleep habits, eating a balanced diet, and avoiding close contact with people who are sick. Cleaning frequently touched surfaces can also reduce the spread of viruses."
+  },
+  {
+    "id": "kb037",
+    "topic": "Migraine Basics",
+    "content": "Migraine is a type of headache that may cause intense pain, often on one side of the head, along with nausea and sensitivity to light or sound. Common triggers include stress, lack of sleep, certain foods, and hormonal changes. Keeping a symptom diary and discussing treatment options with a healthcare provider may help."
+  },
+  {
+    "id": "kb038",
+    "topic": "Anemia Basics",
+    "content": "Anemia occurs when the body does not have enough healthy red blood cells to carry oxygen effectively. Symptoms may include tiredness, weakness, pale skin, dizziness, and shortness of breath. Iron-rich foods such as leafy greens, beans, meat, and fortified foods can support healthy iron levels."
+  },
+  {
+    "id": "kb039",
+    "topic": "Thyroid Health",
+    "content": "The thyroid gland produces hormones that regulate metabolism and energy use. Thyroid disorders may cause symptoms such as weight changes, fatigue, mood changes, sensitivity to temperature, and changes in heart rate. Diagnosis usually requires blood tests and medical evaluation."
+  },
+  {
+    "id": "kb040",
+    "topic": "Kidney Health",
+    "content": "Healthy kidneys help remove waste and balance fluids in the body. Kidney health can be supported by staying hydrated, controlling blood pressure, managing blood sugar levels, avoiding excessive use of certain medications, and maintaining a healthy lifestyle."
+  },
+  {
+    "id": "kb041",
+    "topic": "Liver Health",
+    "content": "The liver performs important functions including processing nutrients and removing harmful substances from the body. Supporting liver health includes maintaining a healthy weight, limiting alcohol intake, avoiding unnecessary medications or supplements, and following a balanced diet."
+  },
+  {
+    "id": "kb042",
+    "topic": "Gastritis Basics",
+    "content": "Gastritis is inflammation of the stomach lining and may cause stomach pain, nausea, bloating, indigestion, or discomfort after eating. Avoiding foods that trigger symptoms, eating balanced meals, and seeking medical advice for persistent symptoms can help manage the condition."
+  },
+  {
+    "id": "kb043",
+    "topic": "Acid Reflux (GERD)",
+    "content": "Acid reflux occurs when stomach acid flows back into the food pipe, causing heartburn, sour taste, or chest discomfort. Lifestyle measures that may help include avoiding large meals before bedtime, limiting trigger foods, maintaining a healthy weight, and following medical advice."
+  },
+  {
+    "id": "kb044",
+    "topic": "Irritable Bowel Syndrome (IBS)",
+    "content": "Irritable bowel syndrome is a digestive condition that may cause abdominal pain, bloating, constipation, diarrhea, or changes in bowel habits. Managing IBS may involve identifying food triggers, maintaining regular meals, managing stress, and working with a healthcare professional."
+  },
+  {
+    "id": "kb045",
+    "topic": "Healthy Eating Plate",
+    "content": "A healthy plate generally includes vegetables and fruits, whole grains, protein sources, and moderate amounts of healthy fats. Balanced portions help provide essential nutrients and support energy, digestion, and overall health."
+  },
+  {
+    "id": "kb046",
+    "topic": "Omega-3 Fatty Acids",
+    "content": "Omega-3 fatty acids are healthy fats that support heart and brain health. Sources include fatty fish, flaxseeds, chia seeds, walnuts, and certain fortified foods. Including a variety of healthy fats in the diet supports overall nutrition."
+  },
+  {
+    "id": "kb047",
+    "topic": "Calcium and Bone Health",
+    "content": "Calcium is important for maintaining strong bones and teeth. Sources include dairy products, leafy green vegetables, fortified foods, and some nuts and seeds. Vitamin D also helps the body absorb calcium effectively."
+  },
+  {
+    "id": "kb048",
+    "topic": "Sun Protection",
+    "content": "Protecting skin from excessive sunlight helps reduce the risk of skin damage. Helpful measures include using sunscreen, wearing protective clothing, seeking shade during intense sunlight, and avoiding prolonged exposure without protection."
+  },
+  {
+    "id": "kb049",
+    "topic": "Skin Care Basics",
+    "content": "Healthy skin care includes gentle cleansing, moisturizing, protecting skin from excessive sun exposure, staying hydrated, and avoiding harsh products that irritate the skin. Persistent rashes, unusual changes, or painful skin conditions should be evaluated by a healthcare professional."
+  },
+  {
+    "id": "kb050",
+    "topic": "Common Skin Allergies",
+    "content": "Skin allergies may cause itching, redness, swelling, or rashes due to reactions to substances such as soaps, cosmetics, plants, or certain materials. Avoiding triggers and seeking medical advice for severe reactions can help manage symptoms."
+  },
+  {
+    "id": "kb051",
+    "topic": "Women's Health Basics",
+    "content": "Women's health includes preventive care such as regular checkups, reproductive health awareness, balanced nutrition, physical activity, and monitoring unusual symptoms. Healthcare needs may change throughout different stages of life."
+  },
+  {
+    "id": "kb052",
+    "topic": "Menstrual Health",
+    "content": "Menstrual health involves understanding normal menstrual cycles, managing discomfort, maintaining hygiene, and recognizing unusual symptoms. Severe pain, extremely heavy bleeding, or major cycle changes should be discussed with a healthcare provider."
+  },
+  {
+    "id": "kb053",
+    "topic": "Pregnancy Nutrition Basics",
+    "content": "During pregnancy, balanced nutrition supports the health of both mother and baby. Important nutrients include folate, iron, calcium, protein, and vitamins. Pregnant individuals should follow guidance from qualified healthcare professionals."
+  },
+  {
+    "id": "kb054",
+    "topic": "Child Health Basics",
+    "content": "Supporting child health includes proper nutrition, vaccinations, regular checkups, adequate sleep, physical activity, and a safe environment. Monitoring growth and development helps identify health concerns early."
+  },
+  {
+    "id": "kb055",
+    "topic": "Common Childhood Fever",
+    "content": "Fever in children is often a response to infection. Parents should monitor symptoms, encourage fluids, and follow healthcare guidance. Medical advice should be sought for very young infants, prolonged fever, breathing difficulties, seizures, or concerning changes in behavior."
+  },
+  {
+    "id": "kb056",
+    "topic": "Medication Safety",
+    "content": "Medication safety includes taking medicines only as directed, following dosage instructions, checking expiration dates, avoiding sharing prescription medicines, and informing healthcare providers about current medications and allergies."
+  },
+  {
+    "id": "kb057",
+    "topic": "Antibiotic Awareness",
+    "content": "Antibiotics treat certain bacterial infections but do not work against viruses such as common colds or influenza. Using antibiotics only when prescribed and completing the recommended course helps prevent antibiotic resistance."
+  },
+  {
+    "id": "kb058",
+    "topic": "Heat Exhaustion First Aid",
+    "content": "Heat exhaustion may occur due to excessive heat exposure and can cause heavy sweating, weakness, dizziness, headache, and nausea. Move the person to a cooler place, provide fluids if they are alert, and seek medical help if symptoms worsen or signs of heat stroke appear."
+  },
+  {
+    "id": "kb059",
+    "topic": "Poisoning First Aid",
+    "content": "If poisoning is suspected, seek emergency medical assistance immediately. Do not induce vomiting unless instructed by medical professionals. Keep information about the substance involved available for healthcare providers."
+  },
+  {
+    "id": "kb060",
+    "topic": "CPR Awareness",
+    "content": "Cardiopulmonary resuscitation (CPR) is an emergency technique used when someone is unconscious and not breathing normally. Calling emergency services and performing CPR if trained can help improve survival chances during cardiac emergencies."
+  },
+  {
+    "id": "kb061",
+    "topic": "Pneumonia Basics",
+    "content": "Pneumonia is an infection that affects the air sacs in the lungs and may cause cough, fever, chest pain, difficulty breathing, and fatigue. Causes include bacteria, viruses, and other microorganisms. Medical evaluation is important, especially for older adults, young children, and people with existing health conditions."
+  },
+  {
+    "id": "kb062",
+    "topic": "Bronchitis Basics",
+    "content": "Bronchitis is inflammation of the bronchial tubes that carry air to and from the lungs. It can cause coughing, mucus production, tiredness, and chest discomfort. Rest, fluids, and avoiding smoke exposure may help recovery. Persistent symptoms should be checked by a healthcare professional."
+  },
+  {
+    "id": "kb063",
+    "topic": "COVID-19 Awareness",
+    "content": "COVID-19 is a respiratory illness caused by a coronavirus. Symptoms may include fever, cough, sore throat, fatigue, and changes in taste or smell. Prevention includes vaccination when recommended, good hygiene, ventilation, and avoiding close contact when sick."
+  },
+  {
+    "id": "kb064",
+    "topic": "Cholesterol Basics",
+    "content": "Cholesterol is a substance needed by the body but high levels of certain cholesterol types may increase heart disease risk. Healthy eating, regular exercise, maintaining a healthy weight, and medical monitoring can help manage cholesterol levels."
+  },
+  {
+    "id": "kb065",
+    "topic": "Obesity Awareness",
+    "content": "Obesity is a condition involving excessive body fat that may increase the risk of health problems such as diabetes, heart disease, and joint issues. Healthy weight management includes balanced nutrition, physical activity, sleep, and professional guidance when needed."
+  },
+  {
+    "id": "kb066",
+    "topic": "Joint Pain Management",
+    "content": "Joint pain can result from injuries, inflammation, arthritis, or overuse. Gentle movement, maintaining a healthy weight, proper rest, and medical evaluation for persistent pain can support joint health."
+  },
+  {
+    "id": "kb067",
+    "topic": "Arthritis Basics",
+    "content": "Arthritis refers to conditions causing joint inflammation and pain. Common symptoms include stiffness, swelling, and reduced movement. Exercise, physical therapy, medications, and lifestyle adjustments may help manage symptoms under medical guidance."
+  },
+  {
+    "id": "kb068",
+    "topic": "Osteoporosis Basics",
+    "content": "Osteoporosis is a condition where bones become weak and more likely to fracture. Prevention includes adequate calcium and vitamin D intake, regular weight-bearing exercise, avoiding smoking, and maintaining bone health."
+  },
+  {
+    "id": "kb069",
+    "topic": "Muscle Cramps",
+    "content": "Muscle cramps are sudden, painful contractions of muscles. They may occur due to dehydration, overuse, or mineral imbalance. Stretching, hydration, and gradual exercise may help reduce occurrence."
+  },
+  {
+    "id": "kb070",
+    "topic": "Food Allergy Awareness",
+    "content": "Food allergies occur when the immune system reacts to certain foods. Symptoms may include itching, swelling, stomach discomfort, breathing difficulty, or severe allergic reactions. Avoiding known triggers and having emergency plans when necessary are important."
+  },
+  {
+    "id": "kb071",
+    "topic": "Sleep Disorders",
+    "content": "Sleep disorders can affect sleep quality, duration, or timing. Conditions may include insomnia and sleep apnea. Maintaining good sleep habits and seeking professional advice for ongoing sleep problems can improve health."
+  },
+  {
+    "id": "kb072",
+    "topic": "Sleep Apnea Basics",
+    "content": "Sleep apnea is a condition where breathing repeatedly stops and starts during sleep. Signs may include loud snoring, daytime tiredness, and difficulty concentrating. Medical evaluation can help identify appropriate treatment."
+  },
+  {
+    "id": "kb073",
+    "topic": "Eye Strain Prevention",
+    "content": "Eye strain may occur from prolonged screen use, poor lighting, or focusing for long periods. Taking regular breaks, adjusting screen brightness, maintaining proper distance, and blinking frequently may reduce discomfort."
+  },
+  {
+    "id": "kb074",
+    "topic": "Hearing Health",
+    "content": "Protecting hearing includes avoiding excessive loud noise, using hearing protection when needed, and getting hearing checked if changes occur. Early evaluation can help manage hearing problems effectively."
+  },
+  {
+    "id": "kb075",
+    "topic": "Ear Infection Basics",
+    "content": "Ear infections may cause ear pain, pressure, hearing changes, and sometimes fever. They can affect children and adults. Persistent pain, fluid discharge, or hearing loss should be evaluated by a healthcare provider."
+  },
+  {
+    "id": "kb076",
+    "topic": "Urinary Tract Infection (UTI)",
+    "content": "Urinary tract infections may cause burning during urination, frequent urination, urgency, and lower abdominal discomfort. Drinking adequate fluids and seeking medical advice can help manage symptoms and prevent complications."
+  },
+  {
+    "id": "kb077",
+    "topic": "Men's Health Awareness",
+    "content": "Men's health includes preventive checkups, healthy nutrition, physical activity, mental health awareness, and monitoring symptoms that may require medical attention. Regular healthcare visits support early detection of problems."
+  },
+  {
+    "id": "kb078",
+    "topic": "Mental Stress Effects",
+    "content": "Long-term stress can affect sleep, mood, concentration, digestion, and overall wellbeing. Healthy coping strategies include exercise, relaxation techniques, social support, hobbies, and professional help when needed."
+  },
+  {
+    "id": "kb079",
+    "topic": "Anxiety Awareness",
+    "content": "Anxiety involves feelings of worry, fear, or nervousness that may interfere with daily activities. Breathing exercises, healthy routines, counseling, and medical support can help manage anxiety symptoms."
+  },
+  {
+    "id": "kb080",
+    "topic": "Depression Awareness",
+    "content": "Depression is a mental health condition involving persistent sadness, loss of interest, low energy, and changes in sleep or appetite. Support from mental health professionals, trusted people, and appropriate treatment can help."
+  },
+  {
+    "id": "kb081",
+    "topic": "Healthy Cooking Methods",
+    "content": "Healthy cooking methods include steaming, grilling, baking, boiling, and using moderate amounts of healthy oils. Reducing excessive fried foods and added salt can support better nutrition."
+  },
+  {
+    "id": "kb082",
+    "topic": "Fiber Importance",
+    "content": "Dietary fiber supports digestion, helps maintain healthy blood sugar levels, and may support heart health. Good sources include fruits, vegetables, whole grains, beans, and legumes."
+  },
+  {
+    "id": "kb083",
+    "topic": "Iron Rich Foods",
+    "content": "Iron-rich foods include meat, seafood, beans, lentils, spinach, and fortified cereals. Iron supports red blood cell production and oxygen transport throughout the body."
+  },
+  {
+    "id": "kb084",
+    "topic": "Healthy Fats",
+    "content": "Healthy fats support brain function, hormone production, and heart health. Sources include nuts, seeds, olive oil, avocados, and fatty fish. Balance and portion control are important."
+  },
+  {
+    "id": "kb085",
+    "topic": "Sugar Intake Awareness",
+    "content": "High intake of added sugars may contribute to weight gain, dental problems, and increased risk of certain health conditions. Choosing whole foods and limiting sugary drinks supports better health."
+  },
+  {
+    "id": "kb086",
+    "topic": "Salt Intake Awareness",
+    "content": "Excess sodium intake may increase blood pressure in some individuals. Reducing processed foods and choosing fresh foods can help maintain healthier sodium levels."
+  },
+  {
+    "id": "kb087",
+    "topic": "Emergency Burns First Aid",
+    "content": "For serious burns, call emergency services immediately. Do not remove stuck clothing or apply home remedies. Cover the burn with a clean covering and seek urgent medical attention."
+  },
+  {
+    "id": "kb088",
+    "topic": "Fracture First Aid",
+    "content": "A suspected fracture should be kept still and supported until medical help arrives. Avoid moving the injured area unnecessarily. Seek immediate care for severe pain, deformity, or inability to use the limb."
+  },
+  {
+    "id": "kb089",
+    "topic": "Bleeding First Aid",
+    "content": "For severe bleeding, apply firm pressure using a clean cloth or dressing and seek emergency medical help. Avoid removing objects stuck in wounds and keep the injured person as comfortable as possible."
+  },
+  {
+    "id": "kb090",
+    "topic": "Fainting First Aid",
+    "content": "If someone faints, place them safely on their back, loosen tight clothing, and ensure fresh air. Seek medical help if fainting is repeated, lasts a long time, or is associated with serious symptoms."
+  },
+  {
+    "id": "kb091",
+    "topic": "Healthy Lifestyle Habits",
+    "content": "Healthy lifestyle habits include balanced eating, regular exercise, quality sleep, stress management, avoiding tobacco, limiting alcohol, and maintaining regular healthcare visits."
+  },
+  {
+    "id": "kb092",
+    "topic": "Preventing Diabetes",
+    "content": "Reducing diabetes risk includes maintaining a healthy weight, exercising regularly, eating balanced meals, limiting excess sugar, and monitoring health indicators through regular checkups."
+  },
+  {
+    "id": "kb093",
+    "topic": "Preventing Heart Disease",
+    "content": "Heart disease prevention includes controlling blood pressure and cholesterol, staying physically active, eating nutritious foods, avoiding smoking, managing stress, and attending regular health screenings."
+  },
+  {
+    "id": "kb094",
+    "topic": "Hand Injury First Aid",
+    "content": "For minor hand injuries, clean the area, control bleeding, protect the wound, and monitor for infection. Severe injuries involving deep cuts, loss of movement, or heavy bleeding require medical attention."
+  },
+  {
+    "id": "kb095",
+    "topic": "Healthy Aging",
+    "content": "Healthy aging involves staying physically active, maintaining social connections, eating nutritious foods, getting regular health screenings, and managing chronic conditions effectively."
+  },
+  {
+    "id": "kb096",
+    "topic": "Immunity Support",
+    "content": "Supporting immune health includes adequate sleep, balanced nutrition, regular activity, hydration, stress management, and recommended vaccinations. No single food or supplement can prevent all illnesses."
+  },
+  {
+    "id": "kb097",
+    "topic": "Medical Checkups",
+    "content": "Regular medical checkups help identify health risks early. Common preventive checks may include blood pressure, blood sugar, cholesterol, and age-appropriate screenings based on individual needs."
+  },
+  {
+    "id": "kb098",
+    "topic": "Healthy Posture",
+    "content": "Good posture reduces strain on muscles and joints. Maintaining proper sitting position, adjusting workspace setup, and taking movement breaks can support spine health."
+  },
+  {
+    "id": "kb099",
+    "topic": "Respiratory Health",
+    "content": "Respiratory health can be supported by avoiding smoking, reducing exposure to pollutants, staying active, practicing good hygiene, and seeking medical advice for persistent breathing problems."
+  },
+  {
+    "id": "kb100",
+    "topic": "General Health Awareness",
+    "content": "General health awareness involves understanding body signals, maintaining healthy habits, seeking medical advice when needed, and taking preventive steps to improve quality of life."
+  }
+]
