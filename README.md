@@ -8,15 +8,15 @@ An AI-powered healthcare chatbot that answers general questions about symptoms, 
 
 ## ✨ Features
 
-- 💬 **Conversational chat interface** with multi-turn memory (context-aware follow-ups)
-- 📚 **RAG (Retrieval-Augmented Generation)** — retrieves relevant info from a curated health knowledge base using FAISS + sentence embeddings, and cites sources used in each answer
-- 🚨 **Emergency detection** — hardcoded, deterministic safety response for medical emergencies (bypasses the LLM entirely for reliability)
-- 💙 **Self-harm / crisis detection** — dedicated supportive response with crisis helpline information
-- 🩺 **Diagnosis-request deflection** — reframes "do I have X disease" questions into general education + a recommendation to consult a doctor
-- 🛡️ **Off-topic redirection** — politely steers non-health questions back to healthcare topics
-- 🧠 **Session-based conversation memory** — no data persisted after the session ends
-- 🎨 **Custom, professional UI** — branded background, frosted-glass panels, clean typography
-- 🗑️ **One-click chat reset**
+-  **Conversational chat interface** with multi-turn memory (context-aware follow-ups)
+-  **RAG (Retrieval-Augmented Generation)** — retrieves relevant info from a curated health knowledge base using FAISS + sentence embeddings, and cites sources used in each answer
+-  **Emergency detection** — hardcoded, deterministic safety response for medical emergencies (bypasses the LLM entirely for reliability)
+-  **Self-harm / crisis detection** — dedicated supportive response with crisis helpline information
+-  **Diagnosis-request deflection** — reframes "do I have X disease" questions into general education + a recommendation to consult a doctor
+-  **Off-topic redirection** — politely steers non-health questions back to healthcare topics
+-  **Session-based conversation memory** — no data persisted after the session ends
+-  **Custom, professional UI** — branded background, frosted-glass panels, clean typography
+-  **One-click chat reset**
 
 ---
 
@@ -127,12 +127,10 @@ healthcare-chatbot/
 │   │   └── wave_bg.png             # UI background image
 │   └── knowledge_base/
 │       └── health_topics.json      # Curated health reference data (RAG source)
-├── docs/
-│   ├── architecture_diagram.svg    # Static export of the architecture diagram
+├── docs/ 
 │   ├── architecture_slides.pptx    # Architecture presentation
 │   └── logic_documentation.pdf     # Logic & design documentation
 ├── requirements.txt
-├── .env.example
 ├── .gitignore
 └── README.md
 ```
@@ -143,7 +141,7 @@ healthcare-chatbot/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/afrosejamal/Healthcare_LLM_Chatbot
 cd healthcare-chatbot
 ```
 
@@ -164,7 +162,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Configure your Groq API key
-Create a `.env` file inside the `app/` folder (use `.env.example` as a template):
+Create a `.env` file inside the `app/` folder:
 
 ```
 GROQ_API_KEY=your_groq_api_key_here
@@ -188,8 +186,8 @@ The app will open automatically at `http://localhost:8501`.
 3. If it's a genuine, non-critical health query, the app retrieves the most relevant entries from a **FAISS-indexed knowledge base** and injects them into the prompt as grounding context.
 4. The augmented message, along with the full conversation history, is sent to **Groq's Llama 3.3 70B** model.
 5. The response is displayed to the user, along with:
-   - 📚 Cited source topics (if RAG context was used)
-   - ⚠️ A disclaimer, where medically relevant
+   -  Cited source topics (if RAG context was used)
+   -  A disclaimer, where medically relevant
 
 Full details on prompt design, safety logic, and assumptions are documented in `docs/logic_documentation.pdf`.
 
@@ -198,12 +196,12 @@ Full details on prompt design, safety logic, and assumptions are documented in `
 ## 🧪 Tested Scenarios
 
 The chatbot has been tested against the following categories of input:
-- ✅ Medical emergencies (e.g., chest pain, breathing difficulty)
-- ✅ Self-harm / crisis language
-- ✅ Diagnosis-seeking questions (e.g., "Do I have dengue or flu?")
-- ✅ Off-topic questions (redirects back to healthcare)
-- ✅ Gibberish / nonsensical input
-- ✅ Multi-turn follow-up questions (context memory)
+-  Medical emergencies (e.g., chest pain, breathing difficulty)
+-  Self-harm / crisis language
+-  Diagnosis-seeking questions (e.g., "Do I have dengue or flu?")
+-  Off-topic questions (redirects back to healthcare)
+-  Gibberish / nonsensical input
+-  Multi-turn follow-up questions (context memory)
 
 ---
 
@@ -213,16 +211,10 @@ The chatbot has been tested against the following categories of input:
 - Chat history is session-based only — it does not persist across browser refreshes or app restarts, by design for this assignment's scope.
 - Emergency and self-harm detection relies on keyword matching, which may not catch every possible phrasing.
 - This is an educational/demo project and has not undergone clinical validation.
-
----
-
-## 📌 Disclaimer
-
-This project was built for a technical assignment and is intended for educational and demonstration purposes only. It is **not** a certified or clinically validated medical tool and should not be used for real-world medical decision-making. Always consult a licensed healthcare professional for personal medical advice.
-
+  
 ---
 
 ## 👤 Author
 AFROSE FATHIMA J
 
-Built as part of an AI Engineer technical assignment.
+Built as part of an AI Engineer.
