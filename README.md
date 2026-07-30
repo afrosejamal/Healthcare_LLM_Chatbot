@@ -73,15 +73,6 @@ flowchart TD
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/REPLACE_WITH_UPLOADED_ASSET_ID
-
-> GitHub only renders inline video previews for files uploaded directly through the web UI (drag-and-drop into an issue, PR, or the README editor), which gives you a `user-attachments` URL like the placeholder above. To enable inline playback:
-> 1. Open the README file for editing on GitHub.com (not locally).
-> 2. Drag `Demo/Demo_video.mp4` into the edit box.
-> 3. GitHub will upload it and insert a working `https://github.com/user-attachments/assets/...` link — replace the placeholder above with that link and commit.
->
-> Until then, you can also just link directly to the file in the repo:
->
 > 🔗 [Watch the demo video](Demo/Demo_video.mp4)
 
 ---
